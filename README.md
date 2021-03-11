@@ -7,22 +7,22 @@
 
 ## 보유기술 
 ### 실무에서 자주쓰는 기술
-React / Next.js / Redux
-React Native
-Angular 2+ / ngRx / rxjs
-ES6+
-Typescript
-Sass
-AWS (EB, S3, Amplify etc..)
+React / Next.js / Redux  
+React Native  
+Angular 2+ / ngRx / rxjs  
+ES6+  
+Typescript  
+Sass  
+AWS (EB, S3, Amplify etc..)  
 
 ### 실무에서 사용해본 기술
-Vue
-Angular.js
-jQuery
-iOS (Swift)
-Android (java)
-Unity
-Firebase (Realtime Database, Storage, Auth, Function etc..)
+Vue  
+Angular.js  
+jQuery  
+iOS (Swift)  
+Android (java)  
+Unity  
+Firebase (Realtime Database, Storage, Auth, Function etc..)  
 
 ### 관심있는 기술
 Node.js 백엔드 (fastify)
